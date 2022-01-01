@@ -1,0 +1,5 @@
+El archivo m2f.pyw tiene esa extension
+para evitar que salga una consola cuando se ejecute
+
+para pasar a ejecutable:
+pyinstaller --onefile <name>.pyw
